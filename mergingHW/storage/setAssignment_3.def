@@ -1,0 +1,134 @@
+assignmentType      = default
+openDate          = 09/19/2019 at 12:00am PDT
+reducedScoringDate = 12/31/1969 at 04:00pm PST
+dueDate           = 09/26/2019 at 11:59pm PDT
+answerDate        = 09/27/2019 at 12:01am PDT
+enableReducedScoring = N
+paperHeaderFile   = ASimpleHardCopyHeaderFile.pg
+screenHeaderFile  = ASimpleScreenHeaderFile.pg
+description       = 
+restrictProbProgression = 0
+emailInstructor   = 0
+
+problemListV2 
+problem_start
+problem_id = 1
+source_file = Library/maCalcDB/setDerivatives1/s2_1_19.pg
+value = 1
+max_attempts = 10
+showMeAnother = -1
+prPeriod = -1
+counts_parent_grade = 0
+att_to_open_children = 0 
+problem_end
+problem_start
+problem_id = 2
+source_file = Library/Union/setDervBasic/3-4-14.pg
+value = 1
+max_attempts = 10
+showMeAnother = -1
+prPeriod = -1
+counts_parent_grade = 0
+att_to_open_children = 0 
+problem_end
+problem_start
+problem_id = 3
+source_file = MATH102HWProblems/deriv_tangent/s2_2_4.pg
+value = 1
+max_attempts = 10
+showMeAnother = -1
+prPeriod = -1
+counts_parent_grade = 0
+att_to_open_children = 0 
+problem_end
+problem_start
+problem_id = 4
+source_file = MATH102HWProblems/deriv_tangent/d3.pg
+value = 1
+max_attempts = 10
+showMeAnother = -1
+prPeriod = -1
+counts_parent_grade = 0
+att_to_open_children = 0 
+problem_end
+problem_start
+problem_id = 5
+source_file = MATH102HWProblems/deriv_tangent/Q01.pg
+value = 1
+max_attempts = 2
+showMeAnother = -1
+prPeriod = -1
+counts_parent_grade = 0
+att_to_open_children = 0 
+problem_end
+problem_start
+problem_id = 6
+source_file = MATH102HWProblems/deriv_tangent/Q19.pg
+value = 1
+max_attempts = 10
+showMeAnother = -1
+prPeriod = -1
+counts_parent_grade = 0
+att_to_open_children = 0 
+problem_end
+problem_start
+problem_id = 7
+source_file = MATH102HWProblems/rules_of_differentiation/logistic_growth_rate
+value = 1
+max_attempts = 2
+showMeAnother = -1
+prPeriod = -1
+counts_parent_grade = 0
+att_to_open_children = 0 
+problem_end
+problem_start
+problem_id = 8
+source_file = MATH102HWProblems/differentiation_rule/Derivative_of_Volume_with_respect_to_surface_area
+value = 1
+max_attempts = 10
+showMeAnother = -1
+prPeriod = -1
+counts_parent_grade = 0
+att_to_open_children = 0 
+problem_end
+problem_start
+problem_id = 9
+source_file = MATH102HWProblems/rules_of_differentiation/Surface_area_and_volume_of_a_cylinder
+value = 1
+max_attempts = 10
+showMeAnother = -1
+prPeriod = -1
+counts_parent_grade = 0
+att_to_open_children = 0 
+problem_end
+problem_start
+problem_id = 10
+source_file = MATH102HWProblems/differentiation_rule/muscle_shortening
+value = 1
+max_attempts = 10
+showMeAnother = -1
+prPeriod = -1
+counts_parent_grade = 0
+att_to_open_children = 0 
+problem_end
+problem_start
+problem_id = 11
+source_file = MATH102HWProblems/spreadsheet/derivatives.pg
+value = 2
+max_attempts = 12
+showMeAnother = -1
+prPeriod = -1
+counts_parent_grade = 0
+att_to_open_children = 0 
+problem_end
+problem_start
+problem_id = 12
+source_file = mapsSept2018.pg
+value = 0
+max_attempts = -1
+showMeAnother = -1
+prPeriod = -1
+counts_parent_grade = 0
+att_to_open_children = 0 
+problem_end
+

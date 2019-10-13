@@ -1,0 +1,224 @@
+assignmentType      = default
+openDate          = 09/12/2019 at 12:00am PDT
+reducedScoringDate = 12/31/1969 at 04:00pm PST
+dueDate           = 09/19/2019 at 11:59pm PDT
+answerDate        = 09/20/2019 at 12:01am PDT
+enableReducedScoring = N
+paperHeaderFile   = defaultHeader
+screenHeaderFile  = defaultHeader
+description       = 
+restrictProbProgression = 0
+emailInstructor   = 0
+
+problemListV2 
+problem_start
+problem_id = 1
+source_file = MATH102HWProblems/power_hill_fcn/allometric_relationship_a
+value = 1
+max_attempts = 2
+showMeAnother = -1
+prPeriod = -1
+counts_parent_grade = 0
+att_to_open_children = 0 
+problem_end
+problem_start
+problem_id = 2
+source_file = MATH102HWProblems/power_hill_fcn/allometric_relationship_b
+value = 1
+max_attempts = 10
+showMeAnother = -1
+prPeriod = -1
+counts_parent_grade = 0
+att_to_open_children = 0 
+problem_end
+problem_start
+problem_id = 3
+source_file = MATH102HWProblems/power_hill_fcn/Energy_equilibrium_for_Earth
+value = 1
+max_attempts = 10
+showMeAnother = -1
+prPeriod = -1
+counts_parent_grade = 0
+att_to_open_children = 0 
+problem_end
+problem_start
+problem_id = 4
+source_file = MATH102HWProblems/power_hill_fcn/Michaelis_Mentin_kinetics
+value = 1
+max_attempts = 3
+showMeAnother = -1
+prPeriod = -1
+counts_parent_grade = 0
+att_to_open_children = 0 
+problem_end
+problem_start
+problem_id = 5
+source_file = MATH102HWProblems/power_hill_fcn/hill_function
+value = 1
+max_attempts = 3
+showMeAnother = -1
+prPeriod = -1
+counts_parent_grade = 0
+att_to_open_children = 0 
+problem_end
+problem_start
+problem_id = 6
+source_file = MATH102HWProblems/pre_cal/rational1.0
+value = 1
+max_attempts = 2
+showMeAnother = -1
+prPeriod = -1
+counts_parent_grade = 0
+att_to_open_children = 0 
+problem_end
+problem_start
+problem_id = 7
+source_file = MATH102HWProblems/pre_cal/rational1.1
+value = 1
+max_attempts = 10
+showMeAnother = -1
+prPeriod = -1
+counts_parent_grade = 0
+att_to_open_children = 0 
+problem_end
+problem_start
+problem_id = 8
+source_file = MATH102HWProblems/pre_cal/rational1.2
+value = 1
+max_attempts = 3
+showMeAnother = -1
+prPeriod = -1
+counts_parent_grade = 0
+att_to_open_children = 0 
+problem_end
+problem_start
+problem_id = 9
+source_file = MATH102HWProblems/deriv_tangent/Q05.pg
+value = 1
+max_attempts = 2
+showMeAnother = -1
+prPeriod = -1
+counts_parent_grade = 0
+att_to_open_children = 0 
+problem_end
+problem_start
+problem_id = 10
+source_file = MATH102HWProblems/deriv_tangent/Stewart5_2_1_2mod.pg
+value = 1
+max_attempts = 10
+showMeAnother = -1
+prPeriod = -1
+counts_parent_grade = 0
+att_to_open_children = 0 
+problem_end
+problem_start
+problem_id = 11
+source_file = MATH102HWProblems/deriv_tangent/s1_1_4.pg
+value = 1
+max_attempts = 10
+showMeAnother = -1
+prPeriod = -1
+counts_parent_grade = 0
+att_to_open_children = 0 
+problem_end
+problem_start
+problem_id = 12
+source_file = MATH102HWProblems/limit_of_fcn/1210s2p27.pg
+value = 1
+max_attempts = 10
+showMeAnother = -1
+prPeriod = -1
+counts_parent_grade = 0
+att_to_open_children = 0 
+problem_end
+problem_start
+problem_id = 13
+source_file = MATH102HWProblems/limit_of_fcn/osu_dr_1_12
+value = 1
+max_attempts = 10
+showMeAnother = -1
+prPeriod = -1
+counts_parent_grade = 0
+att_to_open_children = 0 
+problem_end
+problem_start
+problem_id = 14
+source_file = MATH102HWProblems/limit_of_fcn/3-2-23.pg
+value = 1
+max_attempts = 10
+showMeAnother = -1
+prPeriod = -1
+counts_parent_grade = 0
+att_to_open_children = 0 
+problem_end
+problem_start
+problem_id = 15
+source_file = MATH102HWProblems/limit_of_fcn/3-2-26.pg
+value = 1
+max_attempts = 10
+showMeAnother = -1
+prPeriod = -1
+counts_parent_grade = 0
+att_to_open_children = 0 
+problem_end
+problem_start
+problem_id = 16
+source_file = MATH102HWProblems/limit_of_fcn/s_2_3_14.pg
+value = 1
+max_attempts = 10
+showMeAnother = -1
+prPeriod = -1
+counts_parent_grade = 0
+att_to_open_children = 0 
+problem_end
+problem_start
+problem_id = 17
+source_file = MATH102HWProblems/limit_of_fcn/s_2_3_19.pg
+value = 1
+max_attempts = 10
+showMeAnother = -1
+prPeriod = -1
+counts_parent_grade = 0
+att_to_open_children = 0 
+problem_end
+problem_start
+problem_id = 18
+source_file = MATH102HWProblems/limit_of_fcn/Stewart5_2_2_22.pg
+value = 1
+max_attempts = 10
+showMeAnother = -1
+prPeriod = -1
+counts_parent_grade = 0
+att_to_open_children = 0 
+problem_end
+problem_start
+problem_id = 19
+source_file = MATH102HWProblems/limit_of_fcn/Stewart5_2_2_1.pg
+value = 1
+max_attempts = 1
+showMeAnother = -1
+prPeriod = -1
+counts_parent_grade = 0
+att_to_open_children = 0 
+problem_end
+problem_start
+problem_id = 20
+source_file = MATH102HWProblems/limit_of_fcn/Q01.pg
+value = 1
+max_attempts = 10
+showMeAnother = -1
+prPeriod = -1
+counts_parent_grade = 0
+att_to_open_children = 0 
+problem_end
+problem_start
+problem_id = 21
+source_file = MATH102HWProblems/limit_of_fcn/Stewart5_2_5_3.pg
+value = 1
+max_attempts = 3
+showMeAnother = -1
+prPeriod = -1
+counts_parent_grade = 0
+att_to_open_children = 0 
+problem_end
+

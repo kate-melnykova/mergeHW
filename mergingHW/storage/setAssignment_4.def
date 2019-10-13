@@ -1,0 +1,194 @@
+assignmentType      = default
+openDate          = 09/26/2019 at 12:00am PDT
+reducedScoringDate = 12/31/1969 at 04:00pm PST
+dueDate           = 10/03/2019 at 11:59pm PDT
+answerDate        = 10/04/2019 at 12:01am PDT
+enableReducedScoring = N
+paperHeaderFile   = defaultHeader
+screenHeaderFile  = defaultHeader
+description       = 
+restrictProbProgression = 0
+emailInstructor   = 0
+
+problemListV2 
+problem_start
+problem_id = 1
+source_file = local/Library/UMN/calculusStewartCCC/s_2_7_3.pg
+value = 1
+max_attempts = 3
+showMeAnother = -1
+prPeriod = -1
+counts_parent_grade = 0
+att_to_open_children = 0 
+problem_end
+problem_start
+problem_id = 2
+source_file = MATH102HWProblems/deriv_tangent/graph_derivative.pg
+value = 1
+max_attempts = 3
+showMeAnother = -1
+prPeriod = -1
+counts_parent_grade = 0
+att_to_open_children = 0 
+problem_end
+problem_start
+problem_id = 3
+source_file = MATH102HWProblems/deriv_tangent/tangent_at_points.pg
+value = 1
+max_attempts = 3
+showMeAnother = -1
+prPeriod = -1
+counts_parent_grade = 0
+att_to_open_children = 0 
+problem_end
+problem_start
+problem_id = 4
+source_file = Library/ma122DB/set3/s2_8_8.pg
+value = 1
+max_attempts = 10
+showMeAnother = -1
+prPeriod = -1
+counts_parent_grade = 0
+att_to_open_children = 0 
+problem_end
+problem_start
+problem_id = 5
+source_file = MATH102HWProblems/linear_approximation/3-11-08.pg
+value = 1
+max_attempts = 10
+showMeAnother = -1
+prPeriod = -1
+counts_parent_grade = 0
+att_to_open_children = 0 
+problem_end
+problem_start
+problem_id = 6
+source_file = MATH102HWProblems/deriv_tangent/ur_dr_1_5_12.pg
+value = 1
+max_attempts = 10
+showMeAnother = -1
+prPeriod = -1
+counts_parent_grade = 0
+att_to_open_children = 0 
+problem_end
+problem_start
+problem_id = 7
+source_file = Library/Utah/Calculus_I/set6_Applications_of_the_Derivative/1210s6p5.pg
+value = 1
+max_attempts = 10
+showMeAnother = -1
+prPeriod = -1
+counts_parent_grade = 0
+att_to_open_children = 0 
+problem_end
+problem_start
+problem_id = 8
+source_file = Library/Utah/AP_Calculus_I/set3_Rates_of_Change_and_the_Chain_Rule/1210s4p20.pg
+value = 1
+max_attempts = 10
+showMeAnother = -1
+prPeriod = -1
+counts_parent_grade = 0
+att_to_open_children = 0 
+problem_end
+problem_start
+problem_id = 10
+source_file = MATH102HWProblems/deriv_tangent/s_3_2_42.pg
+value = 1
+max_attempts = 10
+showMeAnother = -1
+prPeriod = -1
+counts_parent_grade = 0
+att_to_open_children = 0 
+problem_end
+problem_start
+problem_id = 11
+source_file = Library/maCalcDB/setDerivatives2Formulas/s2_2_12.pg
+value = 1
+max_attempts = 10
+showMeAnother = -1
+prPeriod = -1
+counts_parent_grade = 0
+att_to_open_children = 0 
+problem_end
+problem_start
+problem_id = 12
+source_file = MATH102HWProblems/rules_of_differentiation/michaelis-mentin_and_hill_kinetics
+value = 1
+max_attempts = 10
+showMeAnother = -1
+prPeriod = -1
+counts_parent_grade = 0
+att_to_open_children = 0 
+problem_end
+problem_start
+problem_id = 13
+source_file = MATH102HWProblems/differentiation_rule/Volume_surface_area_and_radius_of_a_sphere
+value = 1
+max_attempts = 10
+showMeAnother = -1
+prPeriod = -1
+counts_parent_grade = 0
+att_to_open_children = 0 
+problem_end
+problem_start
+problem_id = 14
+source_file = MATH102HWProblems/differentiation_rule/ratio_of_two_species
+value = 1
+max_attempts = 2
+showMeAnother = -1
+prPeriod = -1
+counts_parent_grade = 0
+att_to_open_children = 0 
+problem_end
+problem_start
+problem_id = 15
+source_file = Library/maCalcDB/setLimitsRates6Rates/s1_6_8.pg
+value = 1
+max_attempts = 10
+showMeAnother = -1
+prPeriod = -1
+counts_parent_grade = 0
+att_to_open_children = 0 
+problem_end
+problem_start
+problem_id = 16
+source_file = MATH102HWProblems/LinearApprox/linapprox1.pg
+value = 1
+max_attempts = -1
+showMeAnother = -1
+prPeriod = -1
+counts_parent_grade = 0
+att_to_open_children = 0 
+problem_end
+problem_start
+problem_id = 17
+source_file = local/Library/Rochester/setDerivatives9Approximations/nsc2s9p11.pg
+value = 1
+max_attempts = -1
+showMeAnother = -1
+prPeriod = -1
+counts_parent_grade = 0
+att_to_open_children = 0 
+problem_end
+problem_start
+problem_id = 18
+source_file = MATH102HWProblems/newton_method/newtonsMethod1.0
+value = 1
+max_attempts = -1
+showMeAnother = -1
+prPeriod = -1
+counts_parent_grade = 0
+att_to_open_children = 0 
+problem_end
+problem_start
+problem_id = 19
+source_file = Library/UVA-Stew5e/setUVA-Stew5e-C04S09-NewtonsMethod/4-9-09.pg
+value = 1
+max_attempts = -1
+showMeAnother = -1
+prPeriod = -1
+counts_parent_grade = 0
+att_to_open_children = 0 
+problem_end
+
