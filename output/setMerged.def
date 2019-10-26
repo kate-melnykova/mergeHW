@@ -1,0 +1,1450 @@
+assignmentType      = default
+openDate          = 09/12/2019 at 12:00am PDT
+reducedScoringDate = 12/31/1969 at 04:00pm PST
+dueDate           = 09/19/2019 at 11:59pm PDT
+answerDate        = 09/20/2019 at 12:01am PDT
+enableReducedScoring = N
+paperHeaderFile   = defaultHeader
+screenHeaderFile  = defaultHeader
+description       = 
+restrictProbProgression = 0
+emailInstructor   = 0
+
+problemListV2 
+problem_start
+problem_id = 1
+source_file = MATH102HWProblems/power_hill_fcn/allometric_relationship_a
+value = 1
+max_attempts = 1000
+showMeAnother = -1
+prPeriod = -1
+counts_parent_grade = 0
+att_to_open_children = 0 
+problem_end
+problem_start
+problem_id = 2
+source_file = MATH102HWProblems/power_hill_fcn/allometric_relationship_b
+value = 1
+max_attempts = 1000
+showMeAnother = -1
+prPeriod = -1
+counts_parent_grade = 0
+att_to_open_children = 0 
+problem_end
+problem_start
+problem_id = 3
+source_file = MATH102HWProblems/power_hill_fcn/Energy_equilibrium_for_Earth
+value = 1
+max_attempts = 1000
+showMeAnother = -1
+prPeriod = -1
+counts_parent_grade = 0
+att_to_open_children = 0 
+problem_end
+problem_start
+problem_id = 4
+source_file = MATH102HWProblems/power_hill_fcn/Michaelis_Mentin_kinetics
+value = 1
+max_attempts = 1000
+showMeAnother = -1
+prPeriod = -1
+counts_parent_grade = 0
+att_to_open_children = 0 
+problem_end
+problem_start
+problem_id = 5
+source_file = MATH102HWProblems/power_hill_fcn/hill_function
+value = 1
+max_attempts = 1000
+showMeAnother = -1
+prPeriod = -1
+counts_parent_grade = 0
+att_to_open_children = 0 
+problem_end
+problem_start
+problem_id = 6
+source_file = MATH102HWProblems/pre_cal/rational1.0
+value = 1
+max_attempts = 1000
+showMeAnother = -1
+prPeriod = -1
+counts_parent_grade = 0
+att_to_open_children = 0 
+problem_end
+problem_start
+problem_id = 7
+source_file = MATH102HWProblems/pre_cal/rational1.1
+value = 1
+max_attempts = 1000
+showMeAnother = -1
+prPeriod = -1
+counts_parent_grade = 0
+att_to_open_children = 0 
+problem_end
+problem_start
+problem_id = 8
+source_file = MATH102HWProblems/pre_cal/rational1.2
+value = 1
+max_attempts = 1000
+showMeAnother = -1
+prPeriod = -1
+counts_parent_grade = 0
+att_to_open_children = 0 
+problem_end
+problem_start
+problem_id = 9
+source_file = MATH102HWProblems/deriv_tangent/Q05.pg
+value = 1
+max_attempts = 1000
+showMeAnother = -1
+prPeriod = -1
+counts_parent_grade = 0
+att_to_open_children = 0 
+problem_end
+problem_start
+problem_id = 10
+source_file = MATH102HWProblems/deriv_tangent/Stewart5_2_1_2mod.pg
+value = 1
+max_attempts = 1000
+showMeAnother = -1
+prPeriod = -1
+counts_parent_grade = 0
+att_to_open_children = 0 
+problem_end
+problem_start
+problem_id = 11
+source_file = MATH102HWProblems/deriv_tangent/s1_1_4.pg
+value = 1
+max_attempts = 1000
+showMeAnother = -1
+prPeriod = -1
+counts_parent_grade = 0
+att_to_open_children = 0 
+problem_end
+problem_start
+problem_id = 12
+source_file = MATH102HWProblems/limit_of_fcn/1210s2p27.pg
+value = 1
+max_attempts = 1000
+showMeAnother = -1
+prPeriod = -1
+counts_parent_grade = 0
+att_to_open_children = 0 
+problem_end
+problem_start
+problem_id = 13
+source_file = MATH102HWProblems/limit_of_fcn/osu_dr_1_12
+value = 1
+max_attempts = 1000
+showMeAnother = -1
+prPeriod = -1
+counts_parent_grade = 0
+att_to_open_children = 0 
+problem_end
+problem_start
+problem_id = 14
+source_file = MATH102HWProblems/limit_of_fcn/3-2-23.pg
+value = 1
+max_attempts = 1000
+showMeAnother = -1
+prPeriod = -1
+counts_parent_grade = 0
+att_to_open_children = 0 
+problem_end
+problem_start
+problem_id = 15
+source_file = MATH102HWProblems/limit_of_fcn/3-2-26.pg
+value = 1
+max_attempts = 1000
+showMeAnother = -1
+prPeriod = -1
+counts_parent_grade = 0
+att_to_open_children = 0 
+problem_end
+problem_start
+problem_id = 16
+source_file = MATH102HWProblems/limit_of_fcn/s_2_3_14.pg
+value = 1
+max_attempts = 1000
+showMeAnother = -1
+prPeriod = -1
+counts_parent_grade = 0
+att_to_open_children = 0 
+problem_end
+problem_start
+problem_id = 17
+source_file = MATH102HWProblems/limit_of_fcn/s_2_3_19.pg
+value = 1
+max_attempts = 1000
+showMeAnother = -1
+prPeriod = -1
+counts_parent_grade = 0
+att_to_open_children = 0 
+problem_end
+problem_start
+problem_id = 18
+source_file = MATH102HWProblems/limit_of_fcn/Stewart5_2_2_22.pg
+value = 1
+max_attempts = 1000
+showMeAnother = -1
+prPeriod = -1
+counts_parent_grade = 0
+att_to_open_children = 0 
+problem_end
+problem_start
+problem_id = 19
+source_file = MATH102HWProblems/limit_of_fcn/Stewart5_2_2_1.pg
+value = 1
+max_attempts = 1000
+showMeAnother = -1
+prPeriod = -1
+counts_parent_grade = 0
+att_to_open_children = 0 
+problem_end
+problem_start
+problem_id = 20
+source_file = MATH102HWProblems/limit_of_fcn/Q01.pg
+value = 1
+max_attempts = 1000
+showMeAnother = -1
+prPeriod = -1
+counts_parent_grade = 0
+att_to_open_children = 0 
+problem_end
+problem_start
+problem_id = 21
+source_file = MATH102HWProblems/limit_of_fcn/Stewart5_2_5_3.pg
+value = 1
+max_attempts = 1000
+showMeAnother = -1
+prPeriod = -1
+counts_parent_grade = 0
+att_to_open_children = 0 
+problem_end
+
+problem_start
+problem_id = 22
+source_file = Library/maCalcDB/setDerivatives1/s2_1_19.pg
+value = 1
+max_attempts = 1000
+showMeAnother = -1
+prPeriod = -1
+counts_parent_grade = 0
+att_to_open_children = 0 
+problem_end
+problem_start
+problem_id = 23
+source_file = Library/Union/setDervBasic/3-4-14.pg
+value = 1
+max_attempts = 1000
+showMeAnother = -1
+prPeriod = -1
+counts_parent_grade = 0
+att_to_open_children = 0 
+problem_end
+problem_start
+problem_id = 24
+source_file = MATH102HWProblems/deriv_tangent/s2_2_4.pg
+value = 1
+max_attempts = 1000
+showMeAnother = -1
+prPeriod = -1
+counts_parent_grade = 0
+att_to_open_children = 0 
+problem_end
+problem_start
+problem_id = 25
+source_file = MATH102HWProblems/deriv_tangent/d3.pg
+value = 1
+max_attempts = 1000
+showMeAnother = -1
+prPeriod = -1
+counts_parent_grade = 0
+att_to_open_children = 0 
+problem_end
+problem_start
+problem_id = 26
+source_file = MATH102HWProblems/deriv_tangent/Q01.pg
+value = 1
+max_attempts = 1000
+showMeAnother = -1
+prPeriod = -1
+counts_parent_grade = 0
+att_to_open_children = 0 
+problem_end
+problem_start
+problem_id = 27
+source_file = MATH102HWProblems/deriv_tangent/Q19.pg
+value = 1
+max_attempts = 1000
+showMeAnother = -1
+prPeriod = -1
+counts_parent_grade = 0
+att_to_open_children = 0 
+problem_end
+problem_start
+problem_id = 28
+source_file = MATH102HWProblems/rules_of_differentiation/logistic_growth_rate
+value = 1
+max_attempts = 1000
+showMeAnother = -1
+prPeriod = -1
+counts_parent_grade = 0
+att_to_open_children = 0 
+problem_end
+problem_start
+problem_id = 29
+source_file = MATH102HWProblems/differentiation_rule/Derivative_of_Volume_with_respect_to_surface_area
+value = 1
+max_attempts = 1000
+showMeAnother = -1
+prPeriod = -1
+counts_parent_grade = 0
+att_to_open_children = 0 
+problem_end
+problem_start
+problem_id = 30
+source_file = MATH102HWProblems/rules_of_differentiation/Surface_area_and_volume_of_a_cylinder
+value = 1
+max_attempts = 1000
+showMeAnother = -1
+prPeriod = -1
+counts_parent_grade = 0
+att_to_open_children = 0 
+problem_end
+problem_start
+problem_id = 31
+source_file = MATH102HWProblems/differentiation_rule/muscle_shortening
+value = 1
+max_attempts = 1000
+showMeAnother = -1
+prPeriod = -1
+counts_parent_grade = 0
+att_to_open_children = 0 
+problem_end
+problem_start
+problem_id = 32
+source_file = MATH102HWProblems/spreadsheet/derivatives.pg
+value = 2
+max_attempts = 1000
+showMeAnother = -1
+prPeriod = -1
+counts_parent_grade = 0
+att_to_open_children = 0 
+problem_end
+problem_start
+problem_id = 33
+source_file = mapsSept2018.pg
+value = 0
+max_attempts = 1000
+showMeAnother = -1
+prPeriod = -1
+counts_parent_grade = 0
+att_to_open_children = 0 
+problem_end
+
+problem_start
+problem_id = 34
+source_file = local/Library/UMN/calculusStewartCCC/s_2_7_3.pg
+value = 1
+max_attempts = 1000
+showMeAnother = -1
+prPeriod = -1
+counts_parent_grade = 0
+att_to_open_children = 0 
+problem_end
+problem_start
+problem_id = 35
+source_file = MATH102HWProblems/deriv_tangent/graph_derivative.pg
+value = 1
+max_attempts = 1000
+showMeAnother = -1
+prPeriod = -1
+counts_parent_grade = 0
+att_to_open_children = 0 
+problem_end
+problem_start
+problem_id = 36
+source_file = MATH102HWProblems/deriv_tangent/tangent_at_points.pg
+value = 1
+max_attempts = 1000
+showMeAnother = -1
+prPeriod = -1
+counts_parent_grade = 0
+att_to_open_children = 0 
+problem_end
+problem_start
+problem_id = 37
+source_file = Library/ma122DB/set3/s2_8_8.pg
+value = 1
+max_attempts = 1000
+showMeAnother = -1
+prPeriod = -1
+counts_parent_grade = 0
+att_to_open_children = 0 
+problem_end
+problem_start
+problem_id = 38
+source_file = MATH102HWProblems/linear_approximation/3-11-08.pg
+value = 1
+max_attempts = 1000
+showMeAnother = -1
+prPeriod = -1
+counts_parent_grade = 0
+att_to_open_children = 0 
+problem_end
+problem_start
+problem_id = 39
+source_file = MATH102HWProblems/deriv_tangent/ur_dr_1_5_12.pg
+value = 1
+max_attempts = 1000
+showMeAnother = -1
+prPeriod = -1
+counts_parent_grade = 0
+att_to_open_children = 0 
+problem_end
+problem_start
+problem_id = 40
+source_file = Library/Utah/Calculus_I/set6_Applications_of_the_Derivative/1210s6p5.pg
+value = 1
+max_attempts = 1000
+showMeAnother = -1
+prPeriod = -1
+counts_parent_grade = 0
+att_to_open_children = 0 
+problem_end
+problem_start
+problem_id = 41
+source_file = Library/Utah/AP_Calculus_I/set3_Rates_of_Change_and_the_Chain_Rule/1210s4p20.pg
+value = 1
+max_attempts = 1000
+showMeAnother = -1
+prPeriod = -1
+counts_parent_grade = 0
+att_to_open_children = 0 
+problem_end
+problem_start
+problem_id = 42
+source_file = MATH102HWProblems/deriv_tangent/s_3_2_42.pg
+value = 1
+max_attempts = 1000
+showMeAnother = -1
+prPeriod = -1
+counts_parent_grade = 0
+att_to_open_children = 0 
+problem_end
+problem_start
+problem_id = 43
+source_file = Library/maCalcDB/setDerivatives2Formulas/s2_2_12.pg
+value = 1
+max_attempts = 1000
+showMeAnother = -1
+prPeriod = -1
+counts_parent_grade = 0
+att_to_open_children = 0 
+problem_end
+problem_start
+problem_id = 44
+source_file = MATH102HWProblems/rules_of_differentiation/michaelis-mentin_and_hill_kinetics
+value = 1
+max_attempts = 1000
+showMeAnother = -1
+prPeriod = -1
+counts_parent_grade = 0
+att_to_open_children = 0 
+problem_end
+problem_start
+problem_id = 45
+source_file = MATH102HWProblems/differentiation_rule/Volume_surface_area_and_radius_of_a_sphere
+value = 1
+max_attempts = 1000
+showMeAnother = -1
+prPeriod = -1
+counts_parent_grade = 0
+att_to_open_children = 0 
+problem_end
+problem_start
+problem_id = 46
+source_file = MATH102HWProblems/differentiation_rule/ratio_of_two_species
+value = 1
+max_attempts = 1000
+showMeAnother = -1
+prPeriod = -1
+counts_parent_grade = 0
+att_to_open_children = 0 
+problem_end
+problem_start
+problem_id = 47
+source_file = Library/maCalcDB/setLimitsRates6Rates/s1_6_8.pg
+value = 1
+max_attempts = 1000
+showMeAnother = -1
+prPeriod = -1
+counts_parent_grade = 0
+att_to_open_children = 0 
+problem_end
+problem_start
+problem_id = 48
+source_file = MATH102HWProblems/LinearApprox/linapprox1.pg
+value = 1
+max_attempts = 1000
+showMeAnother = -1
+prPeriod = -1
+counts_parent_grade = 0
+att_to_open_children = 0 
+problem_end
+problem_start
+problem_id = 49
+source_file = local/Library/Rochester/setDerivatives9Approximations/nsc2s9p11.pg
+value = 1
+max_attempts = 1000
+showMeAnother = -1
+prPeriod = -1
+counts_parent_grade = 0
+att_to_open_children = 0 
+problem_end
+problem_start
+problem_id = 50
+source_file = MATH102HWProblems/newton_method/newtonsMethod1.0
+value = 1
+max_attempts = 1000
+showMeAnother = -1
+prPeriod = -1
+counts_parent_grade = 0
+att_to_open_children = 0 
+problem_end
+problem_start
+problem_id = 51
+source_file = Library/UVA-Stew5e/setUVA-Stew5e-C04S09-NewtonsMethod/4-9-09.pg
+value = 1
+max_attempts = 1000
+showMeAnother = -1
+prPeriod = -1
+counts_parent_grade = 0
+att_to_open_children = 0 
+problem_end
+
+problem_start
+problem_id = 52
+source_file = MATH102HWProblems/notes/note.pg
+value = 0
+max_attempts = 1000
+showMeAnother = -1
+prPeriod = -1
+counts_parent_grade = 0
+att_to_open_children = 0 
+problem_end
+problem_start
+problem_id = 53
+source_file = MATH102HWProblems/critpts_2ndtest/PLQgraphingUsingCalculusTools1.0
+value = 1
+max_attempts = 1000
+showMeAnother = -1
+prPeriod = -1
+counts_parent_grade = 0
+att_to_open_children = 0 
+problem_end
+problem_start
+problem_id = 54
+source_file = MATH102HWProblems/critpts_2ndtest/stef4_3p22.pg
+value = 1
+max_attempts = 1000
+showMeAnother = -1
+prPeriod = -1
+counts_parent_grade = 0
+att_to_open_children = 0 
+problem_end
+problem_start
+problem_id = 55
+source_file = MATH102HWProblems/critpts_2ndtest/4-4-45.pg
+value = 3
+max_attempts = 1000
+showMeAnother = -1
+prPeriod = -1
+counts_parent_grade = 0
+att_to_open_children = 0 
+problem_end
+problem_start
+problem_id = 56
+source_file = MATH102HWProblems/critpts_2ndtest/S04.03.DerivativesShapeGraph.PTP01.pg
+value = 3
+max_attempts = 1000
+showMeAnother = -1
+prPeriod = -1
+counts_parent_grade = 0
+att_to_open_children = 0 
+problem_end
+problem_start
+problem_id = 57
+source_file = MATH102HWProblems/spreadsheet/inflectspreadsheet.pg
+value = 5
+max_attempts = 1000
+showMeAnother = -1
+prPeriod = -1
+counts_parent_grade = 0
+att_to_open_children = 0 
+problem_end
+problem_start
+problem_id = 58
+source_file = MATH102HWProblems/limit_of_fcn/pr_5.pg
+value = 1
+max_attempts = 1000
+showMeAnother = -1
+prPeriod = -1
+counts_parent_grade = 0
+att_to_open_children = 0 
+problem_end
+problem_start
+problem_id = 59
+source_file = Library/UCSB/Stewart5_2_7/Stewart5_2_7_10.pg
+value = 1
+max_attempts = 1000
+showMeAnother = -1
+prPeriod = -1
+counts_parent_grade = 0
+att_to_open_children = 0 
+problem_end
+problem_start
+problem_id = 60
+source_file = MATH102HWProblems/critpts_2ndtest/4-4-50.pg
+value = 3
+max_attempts = 1000
+showMeAnother = -1
+prPeriod = -1
+counts_parent_grade = 0
+att_to_open_children = 0 
+problem_end
+problem_start
+problem_id = 61
+source_file = MATH102HWProblems/critpts_2ndtest/c3s3p1_mo.pg
+value = 1
+max_attempts = 1000
+showMeAnother = -1
+prPeriod = -1
+counts_parent_grade = 0
+att_to_open_children = 0 
+problem_end
+problem_start
+problem_id = 62
+source_file = MATH102HWProblems/antideriv_properties/antiderivTF1.pg
+value = 1
+max_attempts = 1000
+showMeAnother = -1
+prPeriod = -1
+counts_parent_grade = 0
+att_to_open_children = 0 
+problem_end
+problem_start
+problem_id = 63
+source_file = MATH102HWProblems/critpts_2ndtest/s4_1_77.pg
+value = 1
+max_attempts = 1000
+showMeAnother = -1
+prPeriod = -1
+counts_parent_grade = 0
+att_to_open_children = 0 
+problem_end
+problem_start
+problem_id = 64
+source_file = MATH102HWProblems/critpts_2ndtest/ur_dr_1_11.pg
+value = 1
+max_attempts = 1000
+showMeAnother = -1
+prPeriod = -1
+counts_parent_grade = 0
+att_to_open_children = 0 
+problem_end
+problem_start
+problem_id = 65
+source_file = MATH102HWProblems/critpts_2ndtest/secondDerTest.pg
+value = 1
+max_attempts = 1000
+showMeAnother = -1
+prPeriod = -1
+counts_parent_grade = 0
+att_to_open_children = 0 
+problem_end
+problem_start
+problem_id = 66
+source_file = MATH102HWProblems/critpts_2ndtest/s3_1_25.pg
+value = 1
+max_attempts = 1000
+showMeAnother = -1
+prPeriod = -1
+counts_parent_grade = 0
+att_to_open_children = 0 
+problem_end
+problem_start
+problem_id = 67
+source_file = MATH102HWProblems/critpts_2ndtest/stef4_3p1.pg
+value = 1
+max_attempts = 1000
+showMeAnother = -1
+prPeriod = -1
+counts_parent_grade = 0
+att_to_open_children = 0 
+problem_end
+
+problem_start
+problem_id = 68
+source_file = Library/UCSB/Stewart5_4_7/Stewart5_4_7_7.pg
+value = 1
+max_attempts = 1000
+showMeAnother = -1
+prPeriod = -1
+counts_parent_grade = 0
+att_to_open_children = 0 
+problem_end
+problem_start
+problem_id = 69
+source_file = MATH102HWProblems/opt/Stewart5_4_7_40.pg
+value = 1
+max_attempts = 1000
+showMeAnother = -1
+prPeriod = -1
+counts_parent_grade = 0
+att_to_open_children = 0 
+problem_end
+problem_start
+problem_id = 70
+source_file = MATH102HWProblems/opt/jj2.pg
+value = 1
+max_attempts = 1000
+showMeAnother = -1
+prPeriod = -1
+counts_parent_grade = 0
+att_to_open_children = 0 
+problem_end
+problem_start
+problem_id = 71
+source_file = MATH102HWProblems/opt/Stewart5_4_7_16.pg
+value = 1
+max_attempts = 1000
+showMeAnother = -1
+prPeriod = -1
+counts_parent_grade = 0
+att_to_open_children = 0 
+problem_end
+problem_start
+problem_id = 72
+source_file = MATH102HWProblems/opt/Optimal_Reproductive_Strategy
+value = 3
+max_attempts = 1000
+showMeAnother = -1
+prPeriod = -1
+counts_parent_grade = 0
+att_to_open_children = 0 
+problem_end
+problem_start
+problem_id = 73
+source_file = MATH102HWProblems/opt/Thermoregulation_in_a_swarm_of_bees
+value = 1
+max_attempts = 1000
+showMeAnother = -1
+prPeriod = -1
+counts_parent_grade = 0
+att_to_open_children = 0 
+problem_end
+problem_start
+problem_id = 74
+source_file = MATH102HWProblems/opt/Nutrient_increase_in_cylindrical_cell
+value = 1
+max_attempts = 1000
+showMeAnother = -1
+prPeriod = -1
+counts_parent_grade = 0
+att_to_open_children = 0 
+problem_end
+problem_start
+problem_id = 75
+source_file = MATH102HWProblems/deriv_tangent/impala.pg
+value = 2
+max_attempts = 1000
+showMeAnother = -1
+prPeriod = -1
+counts_parent_grade = 0
+att_to_open_children = 0 
+problem_end
+problem_start
+problem_id = 76
+source_file = MATH102HWProblems/opt/Stewart5_4_7_32.pg
+value = 1
+max_attempts = 1000
+showMeAnother = -1
+prPeriod = -1
+counts_parent_grade = 0
+att_to_open_children = 0 
+problem_end
+problem_start
+problem_id = 77
+source_file = MATH102HWProblems/opt/logistic_1.pg
+value = 2
+max_attempts = 1000
+showMeAnother = -1
+prPeriod = -1
+counts_parent_grade = 0
+att_to_open_children = 0 
+problem_end
+problem_start
+problem_id = 78
+source_file = MATH102HWProblems/opt/chem_rx.pg
+value = 1
+max_attempts = 1000
+showMeAnother = -1
+prPeriod = -1
+counts_parent_grade = 0
+att_to_open_children = 0 
+problem_end
+problem_start
+problem_id = 79
+source_file = MATH102HWProblems/opt/opt_nutrient.pg
+value = 1
+max_attempts = 1000
+showMeAnother = -1
+prPeriod = -1
+counts_parent_grade = 0
+att_to_open_children = 0 
+problem_end
+problem_start
+problem_id = 80
+source_file = MATH102HWProblems/opt/opt_fish.pg
+value = 1
+max_attempts = 1000
+showMeAnother = -1
+prPeriod = -1
+counts_parent_grade = 0
+att_to_open_children = 0 
+problem_end
+problem_start
+problem_id = 81
+source_file = MATH102HWProblems/opt/s_4_6_40.pg
+value = 1
+max_attempts = 1000
+showMeAnother = -1
+prPeriod = -1
+counts_parent_grade = 0
+att_to_open_children = 0 
+problem_end
+problem_start
+problem_id = 82
+source_file = MATH102HWProblems/opt/Drug_doses_and_sensitivity
+value = 2
+max_attempts = 1000
+showMeAnother = -1
+prPeriod = -1
+counts_parent_grade = 0
+att_to_open_children = 0 
+problem_end
+problem_start
+problem_id = 83
+source_file = MATH102HWProblems/opt/Behavioural_Ecology
+value = 1
+max_attempts = 1000
+showMeAnother = -1
+prPeriod = -1
+counts_parent_grade = 0
+att_to_open_children = 0 
+problem_end
+
+problem_start
+problem_id = 84
+source_file = local/MATH102HWProblems/LeastSquares1.pg
+value = 1
+max_attempts = 1000
+showMeAnother = -1
+prPeriod = -1
+counts_parent_grade = 0
+att_to_open_children = 0 
+problem_end
+problem_start
+problem_id = 85
+source_file = local/MATH102HWProblems/LeastSquares2.pg
+value = 1
+max_attempts = 1000
+showMeAnother = -1
+prPeriod = -1
+counts_parent_grade = 0
+att_to_open_children = 0 
+problem_end
+
+problem_start
+problem_id = 86
+source_file = MATH102HWProblems/power_hill_fcn/Hill_fcn1
+value = 1
+max_attempts = 1000
+showMeAnother = -1
+prPeriod = -1
+counts_parent_grade = 0
+att_to_open_children = 0 
+problem_end
+problem_start
+problem_id = 87
+source_file = MATH102HWProblems/power_hill_fcn/odd_even_1
+value = 1
+max_attempts = 1000
+showMeAnother = -1
+prPeriod = -1
+counts_parent_grade = 0
+att_to_open_children = 0 
+problem_end
+problem_start
+problem_id = 88
+source_file = MATH102HWProblems/power_hill_fcn/hill_fcn2
+value = 1
+max_attempts = 1000
+showMeAnother = -1
+prPeriod = -1
+counts_parent_grade = 0
+att_to_open_children = 0 
+problem_end
+
+problem_start
+problem_id = 89
+source_file = MATH102HWProblems/average_rate_of_change/average_rate_of_change_2
+value = 1
+max_attempts = 1000
+showMeAnother = -1
+prPeriod = -1
+counts_parent_grade = 0
+att_to_open_children = 0 
+problem_end
+problem_start
+problem_id = 90
+source_file = MATH102HWProblems/limit_of_fcn/osu_dr_1_12
+value = 1
+max_attempts = 1000
+showMeAnother = -1
+prPeriod = -1
+counts_parent_grade = 0
+att_to_open_children = 0 
+problem_end
+problem_start
+problem_id = 91
+source_file = MATH102HWProblems/limit_of_fcn/limits_and_continuity_1.0
+value = 1
+max_attempts = 1000
+showMeAnother = -1
+prPeriod = -1
+counts_parent_grade = 0
+att_to_open_children = 0 
+problem_end
+problem_start
+problem_id = 92
+source_file = MATH102HWProblems/limit_of_fcn/limitsAndContinuity1.1
+value = 1
+max_attempts = 1000
+showMeAnother = -1
+prPeriod = -1
+counts_parent_grade = 0
+att_to_open_children = 0 
+problem_end
+problem_start
+problem_id = 93
+source_file = MATH102HWProblems/average_rate_of_change/heating_milk
+value = 1
+max_attempts = 1000
+showMeAnother = -1
+prPeriod = -1
+counts_parent_grade = 0
+att_to_open_children = 0 
+problem_end
+
+problem_start
+problem_id = 94
+source_file = MATH102HWProblems/limit_of_fcn/PLQlimitsAndContinuity1.2
+value = 1
+max_attempts = 1000
+showMeAnother = -1
+prPeriod = -1
+counts_parent_grade = 0
+att_to_open_children = 0 
+problem_end
+problem_start
+problem_id = 95
+source_file = MATH102HWProblems/deriv_tangent/Stewart5_2_7_15.pg
+value = 1
+max_attempts = 1000
+showMeAnother = -1
+prPeriod = -1
+counts_parent_grade = 0
+att_to_open_children = 0 
+problem_end
+problem_start
+problem_id = 96
+source_file = MATH102HWProblems/deriv_tangent/Stewart5_2_7_15_pt3.pg
+value = 1
+max_attempts = 1000
+showMeAnother = -1
+prPeriod = -1
+counts_parent_grade = 0
+att_to_open_children = 0 
+problem_end
+problem_start
+problem_id = 97
+source_file = MATH102HWProblems/antideriv_properties/antideriv1.pg
+value = 1
+max_attempts = 1000
+showMeAnother = -1
+prPeriod = -1
+counts_parent_grade = 0
+att_to_open_children = 0 
+problem_end
+
+problem_start
+problem_id = 98
+source_file = MATH102HWProblems/deriv_tangent/PLQsketchingFunctionAndItsDerivative1.0
+value = 1
+max_attempts = 1000
+showMeAnother = -1
+prPeriod = -1
+counts_parent_grade = 0
+att_to_open_children = 0 
+problem_end
+problem_start
+problem_id = 99
+source_file = MATH102HWProblems/deriv_tangent/2-7-18.pg
+value = 1
+max_attempts = 1000
+showMeAnother = -1
+prPeriod = -1
+counts_parent_grade = 0
+att_to_open_children = 0 
+problem_end
+problem_start
+problem_id = 100
+source_file = MATH102HWProblems/deriv_tangent/PLQdeterminingDerivativeFromFunctionGraph1.0
+value = 1
+max_attempts = 1000
+showMeAnother = -1
+prPeriod = -1
+counts_parent_grade = 0
+att_to_open_children = 0 
+problem_end
+problem_start
+problem_id = 101
+source_file = MATH102HWProblems/deriv_tangent/s_3_1_45.pg
+value = 1
+max_attempts = 1000
+showMeAnother = -1
+prPeriod = -1
+counts_parent_grade = 0
+att_to_open_children = 0 
+problem_end
+problem_start
+problem_id = 102
+source_file = MATH102HWProblems/deriv_tangent/sum.pg
+value = 1
+max_attempts = 1000
+showMeAnother = -1
+prPeriod = -1
+counts_parent_grade = 0
+att_to_open_children = 0 
+problem_end
+problem_start
+problem_id = 103
+source_file = MATH102HWProblems/deriv_tangent/s3_2_31.pg
+value = 1
+max_attempts = 1000
+showMeAnother = -1
+prPeriod = -1
+counts_parent_grade = 0
+att_to_open_children = 0 
+problem_end
+
+problem_start
+problem_id = 104
+source_file = MATH102HWProblems/deriv_tangent/Q13.pg
+value = 1
+max_attempts = 1000
+showMeAnother = -1
+prPeriod = -1
+counts_parent_grade = 0
+att_to_open_children = 0 
+problem_end
+problem_start
+problem_id = 105
+source_file = MATH102HWProblems/deriv_tangent/s_3_2_46.pg
+value = 1
+max_attempts = 1000
+showMeAnother = -1
+prPeriod = -1
+counts_parent_grade = 0
+att_to_open_children = 0 
+problem_end
+problem_start
+problem_id = 106
+source_file = MATH102HWProblems/deriv_tangent/Q19.pg
+value = 1
+max_attempts = 1000
+showMeAnother = -1
+prPeriod = -1
+counts_parent_grade = 0
+att_to_open_children = 0 
+problem_end
+problem_start
+problem_id = 107
+source_file = Library/Michigan/Chap2Sec3/Q37.pg
+value = 1
+max_attempts = 1000
+showMeAnother = -1
+prPeriod = -1
+counts_parent_grade = 0
+att_to_open_children = 0 
+problem_end
+problem_start
+problem_id = 108
+source_file = MATH102HWProblems/antideriv_properties/antideriv.pg
+value = 1
+max_attempts = 1000
+showMeAnother = -1
+prPeriod = -1
+counts_parent_grade = 0
+att_to_open_children = 0 
+problem_end
+problem_start
+problem_id = 109
+source_file = MATH102HWProblems/deriv_tangent/s3_2_32.pg
+value = 1
+max_attempts = 1000
+showMeAnother = -1
+prPeriod = -1
+counts_parent_grade = 0
+att_to_open_children = 0 
+problem_end
+
+problem_start
+problem_id = 110
+source_file = MATH102HWProblems/newton_method/s4_9_8.pg
+value = 1
+max_attempts = 1000
+showMeAnother = -1
+prPeriod = -1
+counts_parent_grade = 0
+att_to_open_children = 0 
+problem_end
+problem_start
+problem_id = 111
+source_file = MATH102HWProblems/antideriv_properties/antiderivTF2.pg
+value = 1
+max_attempts = 1000
+showMeAnother = -1
+prPeriod = -1
+counts_parent_grade = 0
+att_to_open_children = 0 
+problem_end
+problem_start
+problem_id = 112
+source_file = MATH102HWProblems/newton_method/newtonsMethod1.1
+value = 1
+max_attempts = 1000
+showMeAnother = -1
+prPeriod = -1
+counts_parent_grade = 0
+att_to_open_children = 0 
+problem_end
+problem_start
+problem_id = 113
+source_file = local/Library/Michigan/Chap2Sec1/Q11.pg
+value = 1
+max_attempts = 1000
+showMeAnother = -1
+prPeriod = -1
+counts_parent_grade = 0
+att_to_open_children = 0 
+problem_end
+problem_start
+problem_id = 114
+source_file = MATH102HWProblems/linear_approximation/Q07.pg
+value = 1
+max_attempts = 1000
+showMeAnother = -1
+prPeriod = -1
+counts_parent_grade = 0
+att_to_open_children = 0 
+problem_end
+problem_start
+problem_id = 115
+source_file = MATH102HWProblems/linear_approximation/Q11.pg
+value = 1
+max_attempts = 1000
+showMeAnother = -1
+prPeriod = -1
+counts_parent_grade = 0
+att_to_open_children = 0 
+problem_end
+
+problem_start
+problem_id = 116
+source_file = MATH102HWProblems/deriv_tangent/Q01.pg
+value = 1
+max_attempts = 1000
+showMeAnother = -1
+prPeriod = -1
+counts_parent_grade = 0
+att_to_open_children = 0 
+problem_end
+problem_start
+problem_id = 117
+source_file = local/Library/UMN/calculusStewartCCC/s_2_7_3.pg
+value = 1
+max_attempts = 1000
+showMeAnother = -1
+prPeriod = -1
+counts_parent_grade = 0
+att_to_open_children = 0 
+problem_end
+problem_start
+problem_id = 118
+source_file = MATH102HWProblems/deriv_tangent/s_3_2_46.pg
+value = 1
+max_attempts = 1000
+showMeAnother = -1
+prPeriod = -1
+counts_parent_grade = 0
+att_to_open_children = 0 
+problem_end
+problem_start
+problem_id = 119
+source_file = MATH102HWProblems/deriv_tangent/nsc2s10p2.pg
+value = 1
+max_attempts = 1000
+showMeAnother = -1
+prPeriod = -1
+counts_parent_grade = 0
+att_to_open_children = 0 
+problem_end
+
+problem_start
+problem_id = 120
+source_file = MATH102HWProblems/critpts_2ndtest/ur_dr_1_11.pg
+value = 1
+max_attempts = 1000
+showMeAnother = -1
+prPeriod = -1
+counts_parent_grade = 0
+att_to_open_children = 0 
+problem_end
+problem_start
+problem_id = 121
+source_file = MATH102HWProblems/critpts_2ndtest/s4_5_4.pg
+value = 1
+max_attempts = 1000
+showMeAnother = -1
+prPeriod = -1
+counts_parent_grade = 0
+att_to_open_children = 0 
+problem_end
+problem_start
+problem_id = 122
+source_file = MATH102HWProblems/critpts_2ndtest/Q05.pg
+value = 1
+max_attempts = 1000
+showMeAnother = -1
+prPeriod = -1
+counts_parent_grade = 0
+att_to_open_children = 0 
+problem_end
+problem_start
+problem_id = 123
+source_file = MATH102HWProblems/critpts_2ndtest/4-3-49.pg
+value = 1
+max_attempts = 1000
+showMeAnother = -1
+prPeriod = -1
+counts_parent_grade = 0
+att_to_open_children = 0 
+problem_end
+
+problem_start
+problem_id = 124
+source_file = Library/Union/setDervOptimization/k1.pg
+value = 1
+max_attempts = 1000
+showMeAnother = -1
+prPeriod = -1
+counts_parent_grade = 0
+att_to_open_children = 0 
+problem_end
+problem_start
+problem_id = 125
+source_file = MATH102HWProblems/pre_cal/srw1_6_9.pg
+value = 1
+max_attempts = 1000
+showMeAnother = -1
+prPeriod = -1
+counts_parent_grade = 0
+att_to_open_children = 0 
+problem_end
+problem_start
+problem_id = 126
+source_file = MATH102HWProblems/opt/Stewart5_4_7_6.pg
+value = 1
+max_attempts = 1000
+showMeAnother = -1
+prPeriod = -1
+counts_parent_grade = 0
+att_to_open_children = 0 
+problem_end
+problem_start
+problem_id = 127
+source_file = MATH102HWProblems/opt/kepler1.0
+value = 1
+max_attempts = 1000
+showMeAnother = -1
+prPeriod = -1
+counts_parent_grade = 0
+att_to_open_children = 0 
+problem_end
+problem_start
+problem_id = 128
+source_file = MATH102HWProblems/opt/kepler1.1
+value = 1
+max_attempts = 1000
+showMeAnother = -1
+prPeriod = -1
+counts_parent_grade = 0
+att_to_open_children = 0 
+problem_end
+problem_start
+problem_id = 129
+source_file = MATH102HWProblems/opt/kepler1.2
+value = 1
+max_attempts = 1000
+showMeAnother = -1
+prPeriod = -1
+counts_parent_grade = 0
+att_to_open_children = 0 
+problem_end
+problem_start
+problem_id = 130
+source_file = MATH102HWProblems/opt/opt_5.pg
+value = 1
+max_attempts = 1000
+showMeAnother = -1
+prPeriod = -1
+counts_parent_grade = 0
+att_to_open_children = 0 
+problem_end
+problem_start
+problem_id = 131
+source_file = MATH102HWProblems/AbsoluteExtrema/global_extrema2.pg
+value = 1
+max_attempts = 1000
+showMeAnother = -1
+prPeriod = -1
+counts_parent_grade = 0
+att_to_open_children = 0 
+problem_end
+
+problem_start
+problem_id = 132
+source_file = Library/Union/setDervOptimization/k1.pg
+value = 1
+max_attempts = 1000
+showMeAnother = -1
+prPeriod = -1
+counts_parent_grade = 0
+att_to_open_children = 0 
+problem_end
+problem_start
+problem_id = 133
+source_file = MATH102HWProblems/pre_cal/srw1_6_9.pg
+value = 1
+max_attempts = 1000
+showMeAnother = -1
+prPeriod = -1
+counts_parent_grade = 0
+att_to_open_children = 0 
+problem_end
+problem_start
+problem_id = 134
+source_file = MATH102HWProblems/opt/Stewart5_4_7_6.pg
+value = 1
+max_attempts = 1000
+showMeAnother = -1
+prPeriod = -1
+counts_parent_grade = 0
+att_to_open_children = 0 
+problem_end
+problem_start
+problem_id = 135
+source_file = MATH102HWProblems/opt/kepler1.0
+value = 1
+max_attempts = 1000
+showMeAnother = -1
+prPeriod = -1
+counts_parent_grade = 0
+att_to_open_children = 0 
+problem_end
+problem_start
+problem_id = 136
+source_file = MATH102HWProblems/opt/kepler1.1
+value = 1
+max_attempts = 1000
+showMeAnother = -1
+prPeriod = -1
+counts_parent_grade = 0
+att_to_open_children = 0 
+problem_end
+problem_start
+problem_id = 137
+source_file = MATH102HWProblems/opt/kepler1.2
+value = 1
+max_attempts = 1000
+showMeAnother = -1
+prPeriod = -1
+counts_parent_grade = 0
+att_to_open_children = 0 
+problem_end
+problem_start
+problem_id = 138
+source_file = MATH102HWProblems/opt/opt_5.pg
+value = 1
+max_attempts = 1000
+showMeAnother = -1
+prPeriod = -1
+counts_parent_grade = 0
+att_to_open_children = 0 
+problem_end
+problem_start
+problem_id = 139
+source_file = MATH102HWProblems/AbsoluteExtrema/global_extrema2.pg
+value = 1
+max_attempts = 1000
+showMeAnother = -1
+prPeriod = -1
+counts_parent_grade = 0
+att_to_open_children = 0 
+problem_end
+
+problem_start
+problem_id = 140
+source_file = MATH102HWProblems/opt/foraging1.0
+value = 1
+max_attempts = 1000
+showMeAnother = -1
+prPeriod = -1
+counts_parent_grade = 0
+att_to_open_children = 0 
+problem_end
+problem_start
+problem_id = 141
+source_file = MATH102HWProblems/opt/foraging1.1
+value = 1
+max_attempts = 1000
+showMeAnother = -1
+prPeriod = -1
+counts_parent_grade = 0
+att_to_open_children = 0 
+problem_end
+problem_start
+problem_id = 142
+source_file = MATH102HWProblems/opt/foraging1.3
+value = 1
+max_attempts = 1000
+showMeAnother = -1
+prPeriod = -1
+counts_parent_grade = 0
+att_to_open_children = 0 
+problem_end
+
