@@ -107,7 +107,5 @@ venv.bak/
 .idea
 
 # input files
-mergingHW/storage/
-/mergingHW/output/output.def
 /storage/
 /output/
