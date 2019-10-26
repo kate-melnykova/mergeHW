@@ -109,3 +109,5 @@ venv.bak/
 # input files
 mergingHW/storage/
 /mergingHW/output/output.def
+/storage/
+/output/
