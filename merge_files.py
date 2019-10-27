@@ -16,6 +16,10 @@ for entry in args:
     elif entry.startswith('-filename='):
         title = entry.lstrip('-filename=')
 
+# create output folder if needed
+if not os.path.exists(OUTPUT_FOLDER):
+    os.makedirs(OUTPUT_FOLDER)
+
 full_address = os.path.join(OUTPUT_FOLDER, title)
 
 filenames = []
