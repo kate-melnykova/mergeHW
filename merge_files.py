@@ -61,7 +61,7 @@ def concat_and_enumerate(filenames, folder=FOLDER_NAME):
                         problem_id += 1
                     if line.startswith('max_attempts = '):
                         line = 'max_attempts = ' + str(1000) + '\n'
-                    if line.startswith('value ='):
+                    if noweight and line.startswith('value ='):
                         line = 'value = 0\n'
                     output.write(line)
 
