@@ -8,6 +8,7 @@ OUTPUT_FOLDER = './output/'
 title = 'setMerged.def'
 
 args = sys.argv[1:]
+noweight = False
 for entry in args:
     if entry.startswith('-input_folder='):
         FOLDER_NAME = entry.lstrip('-input_folder=')
@@ -15,6 +16,8 @@ for entry in args:
         OUTPUT_FOLDER = entry.lstrip('-output_folder=')
     elif entry.startswith('-filename='):
         title = entry.lstrip('-filename=')
+    elif entry == '-noweight':
+        noweight = True
 
 # create output folder if needed
 if not os.path.exists(OUTPUT_FOLDER):
@@ -58,6 +61,8 @@ def concat_and_enumerate(filenames, folder=FOLDER_NAME):
                         problem_id += 1
                     if line.startswith('max_attempts = '):
                         line = 'max_attempts = ' + str(1000) + '\n'
+                    if line.startswith('value ='):
+                        line = 'value = 0\n'
                     output.write(line)
 
                 if line.startswith('problemListV2'):

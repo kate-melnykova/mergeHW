@@ -14,12 +14,15 @@ assignments in question) to a single folder.
 
 2. Run python script via the terminal
 ```
-$ python merge_files.py -input_folder=./storage -output_folder=./output -filename=setAssignment.def
+$ python merge_files.py -input_folder=./storage -output_folder=./output -noweight -filename=setAssignment.def
 ```
 Replace ./storage by a link to the folder that contains
 all downloaded assignments source files. Output folder (./output)
 is the folder where the output will be created. If folder
-does not exist, it will be created. Finally, specify
+does not exist, it will be created. Add the flag ```-noweight`` if you want all
+problems to have zero points.
+
+Finally, specify
 the filename. Note that WeBWorK only accepts assignments
 which start from set and whose extension is .def
 
